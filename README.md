@@ -79,5 +79,4 @@ repo's API).
 
 ## License
 
-TBD — see [`warden-contracts`](https://github.com/Osok-Labs/warden-contracts) for the current
-licensing discussion; this repo will follow suit.
+[MIT](./LICENSE)
